@@ -1,0 +1,16 @@
+# Python
+lifeguard-b/
+
+# React / Node
+node_modules/
+dist/
+build/
+
+# Env files
+.env
+
+# OS / Editor
+.vscode/
+.DS_Store
+Thumbs.db
+
