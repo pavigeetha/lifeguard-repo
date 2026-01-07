@@ -3,7 +3,7 @@ from datetime import datetime
 import time
 from schemas.usermessage import user_message
 
-client = genai.Client(api_key = 'AIzaSyDuU0y5cQAQJvZdh9BlWibxTFEq3eOLleo')
+client = genai.Client(api_key = "")
 
 def generate_response(query : user_message):
 
