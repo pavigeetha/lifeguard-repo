@@ -19,7 +19,7 @@ Your job is to clearly explain health risk trends in simple language and suggest
   "sleepTrend": "sleep duration reduced for 2 days",
   "activityTrend": "lower than usual",
   "stressTrend": "moderate and fluctuating",
-  "riskScore": 68,
+  "riskScore": 67,
   "state": "Pre-Anomaly"
 }
 Give it to me as a paragraph with consistent font''' +query.text,
